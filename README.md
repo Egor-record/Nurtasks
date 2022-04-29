@@ -4,4 +4,5 @@
 
 <ul>
     <li> <a href="romanints">Перевод римских цифр в арабские</a>
+    <li><a href="commonprefix">Найти общий префикс</a></li>
 </ul>
